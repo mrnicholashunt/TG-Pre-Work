@@ -120,3 +120,4 @@ p {
   border: 1px solid red;
   color: red;
 }
+/* since screens can vary in display size, css can set min and max size of elements */

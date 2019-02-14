@@ -10,3 +10,6 @@ h1 {
 .uppercase{
      text-transform: uppercase;
 }
+
+
+/* You can also target multiple classes in an html file. In the css file, you can style each class seperately but in the HTML file you designate multiple class attributes with class="class1 class2" */

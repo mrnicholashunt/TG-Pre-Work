@@ -111,3 +111,5 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* Margins are the space outside the element. This declaration dictates how close another element can appear in relation to this element with set margins */

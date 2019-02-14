@@ -63,3 +63,5 @@
 </body>
 
 </html>
+
+/* along with inline css coding, you can also embed a style orening and closing tag in the head element and fill your style info within that block. This is how you can style multiple of one type of element all at once without needing to add style info to each element individually.  */

@@ -74,3 +74,6 @@ p {
   float: left;
   width: 50px;
 }
+
+
+/* once you have a selector placed in the stylesheet, follow it with {} then make declarations between these brackets like color: red; */

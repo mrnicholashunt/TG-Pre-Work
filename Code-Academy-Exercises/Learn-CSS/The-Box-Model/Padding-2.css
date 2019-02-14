@@ -108,3 +108,5 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* Padding can be edited on all four sides of an element by adding multiple padding properties to the declaration. This operates in a clockwise manner starting at the top. */

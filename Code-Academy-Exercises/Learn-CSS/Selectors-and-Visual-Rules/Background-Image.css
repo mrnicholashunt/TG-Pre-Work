@@ -83,3 +83,5 @@ p {
   float: left;
   width: 50px;
 }
+
+/* css can change the background of an element. in addition to colors, you can code in an image as a background by using the background-image: declaration followed by url("link") */

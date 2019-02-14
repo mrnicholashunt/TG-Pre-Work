@@ -111,3 +111,5 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* similar to padding, you can dictate margins on all four sides in a clockwise manner starting with the top */

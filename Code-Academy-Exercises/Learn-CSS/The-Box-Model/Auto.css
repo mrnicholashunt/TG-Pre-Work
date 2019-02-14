@@ -114,3 +114,6 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+
+/* within the margin declaration, you can use auto to automatically center content of a designated selector. */

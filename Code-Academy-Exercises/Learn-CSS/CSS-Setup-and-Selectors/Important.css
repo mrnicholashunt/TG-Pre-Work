@@ -33,3 +33,4 @@ h2.destination {
 h5 {
   		color: rebeccapurple !important;
 }
+/* adding !important to a css style element will always display that style and can not be overriden by another style. This can make it difficult to change styles easily so refrain from using this too often */

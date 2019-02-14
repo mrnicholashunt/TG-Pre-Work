@@ -14,3 +14,6 @@ h1 {
      font-family: cursive;
      text-transform: capitalize;
 }
+
+
+/* similar to classes, the id name can be targeted by the css styling file. However, this is a little more specific to elements designated. The ID styling will over ride the class styling */

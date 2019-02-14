@@ -30,3 +30,4 @@ h2.destination {
 .description h5 {
   		color: teal;
 }
+/* By adding a class attribute to a parent element, the nested elements then also become available to style in css by stating class followed by nexted element  */

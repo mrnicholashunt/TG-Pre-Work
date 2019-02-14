@@ -80,3 +80,5 @@ p {
   float: left;
   width: 50px;
 }
+
+/* text automatically aligns to the left, with text-align, you can justify center and right */

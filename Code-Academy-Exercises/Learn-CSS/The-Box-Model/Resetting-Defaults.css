@@ -126,3 +126,4 @@ p {
   color: #D7263D;
   animation: ease;
 }
+/* Browsers have a basic stylesheet that they default to in the absence of a set style sheet. In order to over ride any settings in a browsers style sheet CSS can reset to defaults for a clean slate to work with. */

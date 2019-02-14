@@ -116,3 +116,4 @@ p {
   border: 1px solid red;
   color: red;
 }
+/* the overflow property tells the browser how to fully display content that overflows its restrictions. It can be hidden, scrollable, or visible outside of its contraints  */

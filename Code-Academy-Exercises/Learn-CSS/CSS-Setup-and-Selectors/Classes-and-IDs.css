@@ -17,3 +17,6 @@ h1 {
 .publish-time{
      color: gray;
 }
+
+
+/* Classes are meant to be used over many elements while IDs are used to target one specific element */

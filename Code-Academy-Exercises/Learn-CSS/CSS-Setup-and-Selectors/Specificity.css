@@ -19,3 +19,6 @@ h1 {
 .capitalize{
      text-transform: capitalize;
 }
+
+
+/* targeting elements has a hierarchy of tags>class>ids. Each level gets a little more specific  */

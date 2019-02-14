@@ -33,3 +33,4 @@ h2.destination {
 h5 {
   		color: rebeccapurple;
 }
+/* chaining together selectors can add specificity to your css code, the more specific selector is the more it will override other styled elements selectors */

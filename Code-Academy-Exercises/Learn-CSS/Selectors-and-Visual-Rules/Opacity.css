@@ -83,3 +83,5 @@ p {
   float: left;
   width: 50px;
 }
+
+/* Opacity declaration affects the transparency of an element. this is a 0-1 scale with 1 being 100% opaque. */
