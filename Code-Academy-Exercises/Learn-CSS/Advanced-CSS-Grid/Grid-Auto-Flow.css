@@ -92,3 +92,4 @@ img {
 footer {
   margin-top: 44px;
 }
+/*grid auto flow can dictate whether to add rows, columns or fill gaps (dense). if nothing is set, rows will be added by default*/

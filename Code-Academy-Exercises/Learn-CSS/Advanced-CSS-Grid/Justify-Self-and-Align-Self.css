@@ -92,3 +92,4 @@ img {
 footer {
   margin-top: 44px;
 }
+/*while we can set properties to align all items in a grid, this property will designate specifically where this particular element will display itself in the grid.*/
