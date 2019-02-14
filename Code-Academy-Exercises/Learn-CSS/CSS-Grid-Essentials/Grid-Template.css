@@ -12,3 +12,4 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+/*grid-template can replace both properties of columns and rows. In this property, you can designate the sizes of all rows, then columns, seperated by a /*/

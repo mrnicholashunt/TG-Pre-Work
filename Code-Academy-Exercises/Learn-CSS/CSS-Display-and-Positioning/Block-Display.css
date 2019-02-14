@@ -102,3 +102,4 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
+/* Block display elements will not appear in the same line as its surrounding content. It will take up an entire width of a page unless its width is fixed. */

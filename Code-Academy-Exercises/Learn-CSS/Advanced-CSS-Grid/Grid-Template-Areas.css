@@ -41,3 +41,4 @@ footer {
   background-color: dodgerblue;
   grid-area: footer;
 }
+/*Grid template areas allows us to name grid areas to use as values in the grid*/

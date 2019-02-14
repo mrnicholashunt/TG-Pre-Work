@@ -42,3 +42,4 @@ footer {
   background-color: dodgerblue;
   grid-area: 9 / 1 / 13 / 7;
 }
+/*overlapping elements creates the ability to stack items on the grid.*/

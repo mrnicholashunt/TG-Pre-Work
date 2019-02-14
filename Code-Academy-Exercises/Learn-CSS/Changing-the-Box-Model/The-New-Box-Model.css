@@ -81,3 +81,5 @@ p {
 .card img {
   padding-top: 40px;
 }
+
+/* Border-box resets the box model so that the height and width remains fixed and the border/padding  will be included in this box without adding to the elements box sizing */

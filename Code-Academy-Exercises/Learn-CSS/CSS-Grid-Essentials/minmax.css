@@ -11,3 +11,4 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+/*minmax() can be used to resize your grid based on the size of the browser instead of being a fixed size*/

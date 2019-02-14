@@ -169,3 +169,4 @@ a.home {
     display: none;
   }
 }
+/*When a user doesnt have a font installed that your website is calling for, you can set a fall back font in the font-family property. This second font will be pulled up from the users computer if they do not have the first designated font.*/

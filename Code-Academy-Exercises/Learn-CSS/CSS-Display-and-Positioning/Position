@@ -305,3 +305,4 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
+/* Position can be set to static, relative, absolute, and fixed. Static is set by default. Relative can set top, bottom, left, right position distances based on its static position. Absolute will set an elements position relative to its parent element and the rest of the elements will completely ignore this element on the page. Fixed can set an elements position on the screen and it will remain in place even when the page is scrolled.*/

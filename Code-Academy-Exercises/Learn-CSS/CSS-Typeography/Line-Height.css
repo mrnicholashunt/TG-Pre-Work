@@ -164,3 +164,4 @@ a.home {
     display: none;
   }
 }
+/*line height can be dictated by any measure valid in css like px. percents, ems, rems, or by a relative number. A relative numver would be 1.2, this takes into consideration of the font size and adds spacing based on that.*/

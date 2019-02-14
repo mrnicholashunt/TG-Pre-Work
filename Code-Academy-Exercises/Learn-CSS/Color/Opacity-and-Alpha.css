@@ -33,3 +33,5 @@ body {
 .foreground {
   background-color: hsla(325, 50%, 50%, 0.6);
 }
+
+/*Alpha can be added to hsl and rgb by adding 9a0 to the end of the property declaration (hsla and rgba). This is a 4th number ranging from 0-1. 1 is 100% opaque, 0 is transparent. You can also set a color to 'transparent'*/

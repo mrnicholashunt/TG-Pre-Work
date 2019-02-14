@@ -198,3 +198,4 @@ a.home {
     display: none;
   }
 }
+/*You also do not need to rely upon a font hosted on the internet or the user having it, you can host your particular font right alongside your website. The main difference here is a relative file path in your code to pull the fonts details.*/

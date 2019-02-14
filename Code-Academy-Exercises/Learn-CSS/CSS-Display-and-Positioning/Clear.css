@@ -105,3 +105,4 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
+/* using the float property can cause issues when items bump into one another. You can use the clear property to dictate how an element behaves when it bumps into another element on the page */

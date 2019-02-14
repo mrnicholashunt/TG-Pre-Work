@@ -101,3 +101,4 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
+/* z-index is used to set items to a layered dimension. You can set elements as far back or as far forward as you need in order for items to overlap and display correctly */

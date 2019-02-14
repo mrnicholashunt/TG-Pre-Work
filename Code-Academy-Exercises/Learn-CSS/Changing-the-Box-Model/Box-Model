@@ -1,1 +1,3 @@
 <<!-- nothing here to complete -->>
+
+/* Since the box model is somewhat limited in its default form, you can change it to border-box, a designation to escape the dimensional issues. */

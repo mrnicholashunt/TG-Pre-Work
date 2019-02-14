@@ -13,3 +13,4 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+/*fr is a new unit of measurement introduced in grids. When a grid has a defined size, you can use the fraction (1fr, 2fr) unit to size columns and rows relative to the grids size*/

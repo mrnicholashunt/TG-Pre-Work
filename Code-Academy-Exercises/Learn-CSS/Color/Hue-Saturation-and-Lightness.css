@@ -33,3 +33,4 @@ body {
 .foreground {
   background-color: hsl(325, 50%, 50%);
 }
+/*Hue Saturation and lightness is another way to define color in css. this is comprised of 3 values that range from 0-360. You can also represent these numbers as percentages that corresponds to a value 0-360*/
