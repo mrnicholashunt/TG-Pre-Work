@@ -6,3 +6,6 @@ const logCitySkyline = () => {
 }
 
 console.log(logCitySkyline());
+
+
+// Blacks are code written between curly brackets{}. These serve as important markers for structure in code.

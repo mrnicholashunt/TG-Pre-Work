@@ -10,3 +10,6 @@ console.log(condiments);
 
 utensils[3] = 'Spoon';
 console.log(utensils);
+
+
+//let will the reassignmen of an array, const will allow for reassignement of an element within an array but you can not change the array

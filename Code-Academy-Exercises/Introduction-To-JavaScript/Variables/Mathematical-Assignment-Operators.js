@@ -20,3 +20,6 @@ console.log('The value of levelUp:', levelUp);
 console.log('The value of powerLevel:', powerLevel);
 console.log('The value of multiplyMe:', multiplyMe);
 console.log('The value of quarterMe:', quarterMe);
+
+
+// you can set variables to use in math equations. the example sets w = 4 and then reassignes this variable with a +1 to change W = 5. 

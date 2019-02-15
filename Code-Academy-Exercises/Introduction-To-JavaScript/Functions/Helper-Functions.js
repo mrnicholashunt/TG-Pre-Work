@@ -6,3 +6,6 @@ function costOfMonitors (rows, columns){
 }
 const totalCost = costOfMonitors(5, 4);
 console.log(totalCost);
+
+
+// Helper functions are nested functions inside of other functions. What is returned inside this helper function is then used in the parent function

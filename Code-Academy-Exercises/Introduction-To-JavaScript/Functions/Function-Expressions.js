@@ -8,3 +8,5 @@ const plantNeedsWater = function(day){
 
 plantNeedsWater('Tuesday')
 console.log(plantNeedsWater('Tuesday'))
+
+// another way to use functions is to asign a function as a value of a variable. 

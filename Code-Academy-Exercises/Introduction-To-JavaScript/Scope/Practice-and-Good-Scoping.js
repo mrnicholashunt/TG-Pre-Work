@@ -9,3 +9,5 @@ const logVisibleLightWaves = () => {
 
   console.log(lightWaves);
 };
+
+// Good scoping can make code run better, more legible, easier to maintain, and will save memory.

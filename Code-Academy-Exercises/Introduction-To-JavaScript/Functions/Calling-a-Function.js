@@ -5,3 +5,6 @@ function sayThanks(){
 sayThanks ()
 sayThanks ()
 sayThanks ()
+
+
+// To call a function, you must type in the functions name/identifier

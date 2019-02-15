@@ -9,3 +9,6 @@ isCorrect ? console.log('Correct!') : console.log('Incorrect!');
 let favoritePhrase = 'Love That!';
 
 favoritePhrase === 'Love That!' ? console.log('I love that!') : console.log("I don't love that!");
+
+
+// Ternary Operator shortens the if...else code to perform the same functionality but in a much shorter form

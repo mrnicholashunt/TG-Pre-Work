@@ -5,3 +5,6 @@ const plantNeedsWater = (day) => {
     return false;
   }
 };
+
+
+// arrow functions were introduced to shorten the code needed for functions. Using the fat arrow () => notation we can set parameters without needing to type out function everytime you need to build a function 

@@ -9,3 +9,5 @@ const callMyNightSky = () => {
 
 console.log(callMyNightSky());
 console.log(stars)
+
+//Scope pollution is when too many variables exist in the global namespace. this can cause unexpected and sometimes undetected errors in code results.

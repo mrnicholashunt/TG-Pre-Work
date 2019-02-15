@@ -7,3 +7,5 @@ if(sale) {
 } else {
   console.log('Time to wait for a sale.')
 }
+
+// If...else statements check to see IF a condition is met, or ELSE will be what is returned if the if check is not fulfilled

@@ -14,3 +14,8 @@ console.log(groceryList.slice(1, 4));
 const pastaIndex = groceryList.indexOf('pasta');
 
 console.log(pastaIndex)
+
+
+// .shift will remove the first item in an array
+// .unshift will add to the beginning of an array
+// .slice will allow you to only display select items in an array

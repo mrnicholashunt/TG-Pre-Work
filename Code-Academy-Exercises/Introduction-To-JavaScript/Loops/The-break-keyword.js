@@ -9,3 +9,6 @@ for (let i = 0; i < rapperArray.length; i++){
 }
 
 console.log("And if you don't know, now you know.");
+
+
+// The break keyword allows a loop to be broken once the criteria is met instead of keep looping for results

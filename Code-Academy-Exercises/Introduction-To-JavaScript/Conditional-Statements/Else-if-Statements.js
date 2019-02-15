@@ -8,3 +8,6 @@ if (season === 'spring') {
 } else {
   console.log('Invalid season.');
 }
+
+
+// You can use else if statements to check if multiple conditions are met. These are used to check further than just true/flase statements

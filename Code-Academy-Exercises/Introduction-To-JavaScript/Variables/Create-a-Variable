@@ -10,3 +10,6 @@ changeMe = false;
 
 const entree = 'Enchiladas';
 console.log(entree);
+//var, const, and let are keywprds that create variables. the following characters in the code become the label of the variable. variables can not start with numbers, they are casesensitive, and can not be the same name as keywords.
+//let signals a variable that can be reassigned later on in the code.
+//const variables can not be reassigned later

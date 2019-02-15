@@ -29,3 +29,6 @@ const checkConsistentOutput = (func, val) => {
 };
 
 checkConsistentOutput(addTwo, 10);
+
+
+// Callback functions are functions that are passed back as parameters in other functions. Since functions can operate as data, they can be very versitile tools.

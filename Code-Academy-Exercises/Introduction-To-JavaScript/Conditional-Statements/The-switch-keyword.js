@@ -14,3 +14,4 @@ switch (athleteFinalPosition) {
     console.log('No medal awarded.');
     break;
 }
+// the switch keyword is used to simplify the else if statement. It can check many cases to see what criteria is met and return a value if so.

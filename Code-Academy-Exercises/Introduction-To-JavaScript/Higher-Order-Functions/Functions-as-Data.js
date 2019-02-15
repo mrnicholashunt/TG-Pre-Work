@@ -10,3 +10,6 @@ const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
 const is2p2 = checkThatTwoPlusTwoEqualsFourAMillionTimes;
 is2p2();
 console.log(is2p2.name);
+
+
+// Functions can be assigned as data to a variable. this also allows us to reassign this variable to make it easier to call upon the data

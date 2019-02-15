@@ -14,3 +14,4 @@ if (favoritePhrase) {
 } else {
   console.log('This string is definitely empty.');
 }
+// Truethy and Falsy values are returned when you need to check to see if a variable has a value but not a specific value.

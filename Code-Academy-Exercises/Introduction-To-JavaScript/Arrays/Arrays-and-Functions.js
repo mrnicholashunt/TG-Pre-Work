@@ -11,3 +11,4 @@ function removeElement(newArr){
 }
 removeElement(concept);
 console.log(concept);
+// If an array is mutated withing the function, it will remain that way when the function is called

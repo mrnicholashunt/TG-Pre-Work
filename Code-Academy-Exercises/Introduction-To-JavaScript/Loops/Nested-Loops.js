@@ -12,3 +12,6 @@ for (let i = 0; i < bobsFollowers.length; i++) {
   }
 };
 console.log(mutualFollowers)
+
+
+// Nested loops are loops running inside of loops. This is particularyly handy for compairing multiple arrays.

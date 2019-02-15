@@ -7,3 +7,6 @@ const callMyNightSky = () => {
 }
 
 console.log(callMyNightSky());
+
+
+// Global scope variables are declared outside of code blocks and can be accessed by any point in the code.
