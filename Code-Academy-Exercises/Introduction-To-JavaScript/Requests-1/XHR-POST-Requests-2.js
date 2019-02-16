@@ -11,3 +11,6 @@ xhr.onreadystatechange = () => {
 }
 xhr.open('POST', url);
 xhr.send(data);
+
+
+// in this excersize we wrote a post request

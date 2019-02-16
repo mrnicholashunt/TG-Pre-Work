@@ -34,3 +34,6 @@ const displaySuggestions = (event) => {
 };
 
 submit.addEventListener('click', displaySuggestions);
+
+
+// this excersize had us manipulate the webpage by using what was returned in the promise.

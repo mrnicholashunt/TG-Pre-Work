@@ -15,3 +15,6 @@ const { functionality } = robot;
 console.log(functionality);
 
 functionality.beep();
+
+
+// Destructured assignments are meant to save us keystrokes by shortening the syntax needed to create variables

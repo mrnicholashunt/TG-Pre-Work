@@ -11,3 +11,6 @@ let alienShip = {
 };
 alienShip.retreat();
 alienShip.takeOff();
+
+
+// Methods are functions stored in an object properties. This is what is used during console.log(). The object 'console' is being called to use the log function.

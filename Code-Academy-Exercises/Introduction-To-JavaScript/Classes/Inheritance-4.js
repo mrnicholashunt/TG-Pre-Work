@@ -28,3 +28,6 @@ const nurseOlynyk = new Nurse('Olynyk', ['Trauma','Pediatrics']);
 
 nurseOlynyk.takeVacationDays(5);
 console.log(nurseOlynyk.remainingVacationDays);
+
+
+// now that we have a subclass by using the extends parentclass, we are able to access all properties of the subclass as if it were the main class

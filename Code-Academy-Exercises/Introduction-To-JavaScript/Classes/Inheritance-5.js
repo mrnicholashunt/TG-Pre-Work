@@ -36,3 +36,6 @@ nurseOlynyk.takeVacationDays(5);
 console.log(nurseOlynyk.remainingVacationDays);
 nurseOlynyk.addCertification('Genetics');
 console.log(nurseOlynyk.certifications);
+
+
+// now that we have set subclasses, we can access, create, manipulate objects easily and we need minimal lines of code to to do so thanks to classes

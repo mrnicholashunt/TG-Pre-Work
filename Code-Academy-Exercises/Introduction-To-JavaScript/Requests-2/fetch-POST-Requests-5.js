@@ -41,3 +41,6 @@ const displayShortUrl = (event) => {
 }
 
 shortenButton.addEventListener('click', displayShortUrl);
+
+
+// in this excersize we rerun the shortner after adding a .then to see how the results changed

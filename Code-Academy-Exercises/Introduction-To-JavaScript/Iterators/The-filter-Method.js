@@ -13,3 +13,6 @@ const favoriteWords = ['nostalgia', 'hyperbole', 'fervent', 'esoteric', 'serene'
 const longFavoriteWords = favoriteWords.filter(word => {
   return word.length > 7;
 })
+
+
+// The .filter iterator returns a new array based on the original array but with specific elements filtered out

@@ -31,3 +31,5 @@ export function meetsSpeedRangeRequirements(maxSpeed, minSpeed, requiredSpeedRan
     return false;
   }
 };
+
+// Even faster is export named exports. You can designate a variable exported on the same line as you creat the variable

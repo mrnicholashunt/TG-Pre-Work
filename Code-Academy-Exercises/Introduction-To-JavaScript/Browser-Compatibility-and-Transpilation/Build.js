@@ -8,3 +8,6 @@ let sauce = "Eggs and cheese"; // ES6 syntax
 const carbonara = `You can make carbonara with ${pasta}, ${meat}, and a sauce made with ${sauce}.`;
 
 //terminal window would not load
+
+
+// once installed correctly, you can run the command once and babel will transpile all files inside the src folder into similarly names es5 files

@@ -11,3 +11,5 @@ fetch('https://api-to-call.com/endpoint', {
 }).then(jsonResponse => {
   console.log(jsonResponse);
 })
+
+// We start building the boilerplate code for fetch post

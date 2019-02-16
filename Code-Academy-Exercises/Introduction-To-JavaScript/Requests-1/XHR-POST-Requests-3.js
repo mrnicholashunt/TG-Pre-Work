@@ -37,3 +37,6 @@ const displayShortUrl = (event) => {
 }
 
 shortenButton.addEventListener('click', displayShortUrl);
+
+
+// in this exersize we incorporate our boilerplate into the code and make a post request to shorten a url

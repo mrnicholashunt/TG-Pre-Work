@@ -32,3 +32,6 @@ const displaySuggestions = (event) => {
 };
 
 submit.addEventListener('click', displaySuggestions);
+
+
+// we insert our fetch request code to access datamuse to return results

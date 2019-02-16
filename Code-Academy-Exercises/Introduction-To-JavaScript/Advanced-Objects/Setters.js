@@ -21,3 +21,6 @@ const robot = {
 
 robot.numOfSensors = 100;
 console.log(robot.numOfSensors);
+
+
+// Setters allow us to reassign properties in an object. Setters can push values into object properties in many ways. it can perform actions, check inputs, and make its purpose clear for future reference

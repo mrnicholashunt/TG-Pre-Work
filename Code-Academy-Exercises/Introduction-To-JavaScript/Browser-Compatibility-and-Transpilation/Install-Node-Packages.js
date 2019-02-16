@@ -8,3 +8,6 @@ let sauce = "Eggs and cheese"; // ES6 syntax
 const carbonara = `You can make carbonara with ${pasta}, ${meat}, and a sauce made with ${sauce}.`;
 
 //terminal window would not load
+
+
+// This is running through the process to install npm and babel. Thes are valuable tools to avoid bugs and to convert code into es5 that can easily be translated in most browsers

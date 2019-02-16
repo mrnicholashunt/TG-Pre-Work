@@ -24,3 +24,5 @@ function meetsStaffRequirements(availableStaff, requiredStaff) {
   }
 }
 export { availableAirplanes, flightRequirements, meetsStaffRequirements};
+
+// ES6 also gave the ability to exports variable with named exports

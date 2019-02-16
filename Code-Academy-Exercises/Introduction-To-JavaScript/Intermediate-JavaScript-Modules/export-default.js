@@ -9,3 +9,6 @@ Airplane.availableAirplanes = [
  }
 ];
 export default Airplane;
+
+
+// ES6 gave the ability to export using export default syntax in place of module.export

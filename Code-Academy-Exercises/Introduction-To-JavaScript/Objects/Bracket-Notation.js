@@ -11,3 +11,6 @@ let propName =  'Active Mission';
 
 let isActive = spaceship ['Active Mission']
 console.log(propName);
+
+
+// This is another way to access these properties. Using bracket notation you type objectnam[keyvalue]; This will return that key's value

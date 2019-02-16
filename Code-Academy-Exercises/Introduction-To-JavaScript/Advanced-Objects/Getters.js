@@ -11,3 +11,5 @@ const robot = {
 };
 
 console.log(robot.energyLevel);
+
+// Getters are methods that retrieve data whether that is by retrieving data, returning merged data, or returning data based on conditionals

@@ -36,3 +36,6 @@ export function meetsSpeedRangeRequirements(maxSpeed, minSpeed, requiredSpeedRan
 };
 
 export default meetsSpeedRangeRequirements;
+
+
+// export methods can be used side by side however it is a good idea to use one method.

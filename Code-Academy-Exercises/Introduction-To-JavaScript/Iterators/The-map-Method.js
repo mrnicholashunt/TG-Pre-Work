@@ -11,3 +11,6 @@ const bigNumbers = [100, 200, 300, 400, 500];
 const smallNumbers = bigNumbers.map(num => num/100);
 
 console.log(smallNumbers)
+
+
+//the .map iterator uses an arrays elements to create a new array base on data in the original array

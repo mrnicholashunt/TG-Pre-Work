@@ -8,3 +8,6 @@ fetch('https://api-to-call.com/endpoint').then(response => {
 }).then(jsonResponse => {
   return jsonResponse;
 });
+
+
+// reconstructing the boiler plate code for the fetch request

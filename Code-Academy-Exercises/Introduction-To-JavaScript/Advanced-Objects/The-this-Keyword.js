@@ -6,3 +6,6 @@ const robot = {
   }
 };
 console.log(robot.provideInfo());
+
+
+// .this keyword allows us to add a method to an object by saying this object needs to have a key that points to another key inside the object. The when called upon, this new key can access the other keys value

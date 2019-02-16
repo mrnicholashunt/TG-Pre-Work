@@ -23,3 +23,5 @@ function displaySpeedRangeStatus() {
 }
 
 displaySpeedRangeStatus();
+
+//importing named imports is similar to named exports, we can simply say import and variables name

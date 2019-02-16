@@ -25,3 +25,6 @@ function displaySpeedRangeStatus() {
 }
 
 displaySpeedRangeStatus();
+
+
+// Importing multiple sets of code is easily done as well.

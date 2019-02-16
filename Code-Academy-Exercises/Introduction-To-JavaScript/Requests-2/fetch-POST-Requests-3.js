@@ -32,3 +32,6 @@ const displayShortUrl = (event) => {
 }
 
 shortenButton.addEventListener('click', displayShortUrl);
+
+
+// In this step we insert our shortner API into the code to shorten URLs

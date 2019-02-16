@@ -5,3 +5,5 @@ function displayFuelCapacity() {
   });
 }
 displayFuelCapacity();
+
+// ES6 also simplified the require method by using the keyword import

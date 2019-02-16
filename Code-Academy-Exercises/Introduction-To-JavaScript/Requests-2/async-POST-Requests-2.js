@@ -13,3 +13,6 @@ const getData = async () => {
     console.log(error);
   }
 }
+
+
+// peicing together boilerplate code to complete our async post request

@@ -8,3 +8,7 @@ let sauce = "Eggs and cheese"; // ES6 syntax
 const carbonara = `You can make carbonara with ${pasta}, ${meat}, and a sauce made with ${sauce}.`;
 
 //terminal window would not load
+
+
+//npm (node package manager), can be utilized to eliminate the need to create duplicate code or to avoid bugs.
+// npm contains snipits of code written by other developers so that you do not always need to recreate the wheel

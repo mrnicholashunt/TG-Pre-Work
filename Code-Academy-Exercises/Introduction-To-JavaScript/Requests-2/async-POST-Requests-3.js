@@ -40,3 +40,6 @@ const displayShortUrl = (event) => {
 }
 
 shortenButton.addEventListener('click', displayShortUrl);
+
+
+// In this excersize we now get to use our async post request script to shorten our url

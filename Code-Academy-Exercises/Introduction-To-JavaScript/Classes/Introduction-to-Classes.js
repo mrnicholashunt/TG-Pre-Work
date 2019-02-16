@@ -21,3 +21,6 @@ console.log(halley.behavior); // Print behavior value to console
 halley.incrementBehavior(); // Add one to behavior
 console.log(halley.name); // Print name value to console
 console.log(halley.behavior); // Print behavior value to console
+
+
+// Classes are similar to factory functions, you can create a class that acts as a template and you can then shorten the code needed to create objects by using the class

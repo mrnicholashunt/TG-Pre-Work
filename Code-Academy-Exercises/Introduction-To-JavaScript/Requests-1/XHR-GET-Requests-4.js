@@ -38,3 +38,6 @@ const displaySuggestions = (event) => {
 }
 
 submit.addEventListener('click', displaySuggestions);
+
+
+// In this excersize we learned how to string together different objects to execute a get request

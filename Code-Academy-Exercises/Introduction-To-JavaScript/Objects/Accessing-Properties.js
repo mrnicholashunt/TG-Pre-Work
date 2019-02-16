@@ -10,3 +10,5 @@ let spaceship = {
 let crewCount = spaceship.numCrew;
 
 let planetArray = spaceship.flightPath;
+
+// we can access these values with dot notation by writing the objectsname.key. This will return that key's value 

@@ -16,3 +16,6 @@ class HospitalEmployee {
     this._remainingVacationDays -= daysOff;
   }
 }
+
+
+// Parent classes contain all the shared properties of the child classes. 

@@ -8,3 +8,6 @@ let sauce = "Eggs and cheese"; // ES6 syntax
 const carbonara = `You can make carbonara with ${pasta}, ${meat}, and a sauce made with ${sauce}.`;
 
 //terminal would not load
+
+
+// This is setting up babel to speify that we are using es6+

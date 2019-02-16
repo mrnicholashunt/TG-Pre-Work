@@ -13,3 +13,6 @@ const interestingWords = words.filter((word) => {return word.length > 5});
 // Make sure to uncomment the code below and fix the incorrect code before running it
 
 console.log(interestingWords.every((word) => {return word.length > 5}));
+
+
+// the mozilla developers documentation contain a comprehensive list of iterator methods, what they are used for, what is required to use them, and what parameters they accept

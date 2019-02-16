@@ -51,3 +51,6 @@ const changeButton = () => {
 }
 
 jsonButton.addEventListener('click', generateJson);
+
+
+// GET, POST, PUT, and DELETE are the most common requests. This is where javascript becomes interactive for a user

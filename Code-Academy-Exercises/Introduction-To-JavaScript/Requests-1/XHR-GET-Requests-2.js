@@ -9,3 +9,6 @@ xhr.onreadystatechange = () => {
 };
 xhr.open('GET', url);
 xhr.send();
+
+
+// in this step we start building a xhr get request

@@ -17,3 +17,6 @@ console.log(robotEntries);
 const newRobot = Object.assign({laserBlaster: true, voiceRecognition: true}, robot);
 
 console.log(newRobot);
+
+
+// Instead of creating methods for objects, there are also a variety of built in methods that can be utilized for objects. Mozillas Developers documentation has a large list of these.

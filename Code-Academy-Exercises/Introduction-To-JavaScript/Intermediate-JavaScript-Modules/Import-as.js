@@ -23,3 +23,5 @@ function displaySpeedRangeStatus() {
 }
 
 displaySpeedRangeStatus();
+
+// Similar to export as, you can change the name of an imported variable in the inport statement

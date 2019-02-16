@@ -35,3 +35,6 @@ const displaySuggestions = (event) => {
 }
 
 submit.addEventListener('click', displaySuggestions);
+
+
+// In this excersize we embed the get request in the js code. Once this is embeded we can execute the get requests in the website

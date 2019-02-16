@@ -24,3 +24,5 @@ class Nurse extends HospitalEmployee {
   }
 }
 const nurseOlynyk = new Nurse('Olynyk', ['Trauma', 'Pediatrics']);
+
+// Once shared properties exist in the parent class, we can now extend into a subclss with specific properties that the subclass has exclusively

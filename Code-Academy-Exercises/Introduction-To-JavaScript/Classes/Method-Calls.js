@@ -28,3 +28,5 @@ const surgeonDurant = new Surgeon('Durant', 'Orthopedics');
 console.log(surgeonCurry.name);
 surgeonCurry.takeVacationDays(3);
 console.log(surgeonCurry.remainingVacationDays);
+
+// Now that we have put methods in our class, we can use them to access and manipulate objects that were created using the class

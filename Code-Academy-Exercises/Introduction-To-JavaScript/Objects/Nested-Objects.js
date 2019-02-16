@@ -30,3 +30,6 @@ let spaceship = {
 let capFave = spaceship.crew.captain['favorite foods'][0];
 
 let firstPassenger = spaceship.passengers[0];
+
+
+// Objects are often nested, meaning an object can contain other objects with more details about thos objects. These nested objects are accesible using dot notation and bracket notation to draw out deep values

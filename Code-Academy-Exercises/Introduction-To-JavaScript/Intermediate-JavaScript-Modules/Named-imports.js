@@ -14,3 +14,5 @@ function displayStaffStatus() {
 displayStaffStatus();
 
 displayFuelCapacity();
+
+// Similarly, we can import snipits of code by naming their variables

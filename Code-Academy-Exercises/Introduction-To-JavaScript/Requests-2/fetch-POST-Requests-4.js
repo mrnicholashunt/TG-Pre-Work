@@ -39,3 +39,6 @@ const displayShortUrl = (event) => {
 }
 
 shortenButton.addEventListener('click', displayShortUrl);
+
+
+// in this excersize we learn to handle the result. mine came back resolved

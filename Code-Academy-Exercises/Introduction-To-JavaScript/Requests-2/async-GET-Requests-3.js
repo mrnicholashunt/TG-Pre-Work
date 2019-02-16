@@ -33,3 +33,5 @@ const displaySuggestions = (event) => {
 }
 
 submit.addEventListener('click', displaySuggestions);
+
+// In this excersize we will build upon the boiler plate code 

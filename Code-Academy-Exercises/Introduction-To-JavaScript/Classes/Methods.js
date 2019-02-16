@@ -24,3 +24,5 @@ class Surgeon {
 
 const surgeonCurry = new Surgeon('Curry', 'Cardiovascular');
 const surgeonDurant = new Surgeon('Durant', 'Orthopedics');
+
+// we can embed getters and methods inside of a class to be used later by created objects using the class

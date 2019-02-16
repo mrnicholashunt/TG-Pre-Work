@@ -10,3 +10,6 @@ const getData = async () => {
     console.log(error);
   }
 }
+
+
+// building the boilerplate code for a async get request

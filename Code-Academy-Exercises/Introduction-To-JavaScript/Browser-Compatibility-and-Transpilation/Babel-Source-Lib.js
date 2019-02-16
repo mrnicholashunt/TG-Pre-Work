@@ -16,3 +16,6 @@
 }
 
 //terminal window would not load
+
+
+// this step is setting up the source library that we will need to transpile es6 to es5

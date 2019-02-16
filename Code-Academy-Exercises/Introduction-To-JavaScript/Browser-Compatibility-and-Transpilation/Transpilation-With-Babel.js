@@ -8,3 +8,6 @@ let sauce = "Eggs and cheese"; // ES6 syntax
 const carbonara = `You can make carbonara with ${pasta}, ${meat}, and a sauce made with ${sauce}.`;
 
 //My terminal window would never load
+
+
+// bable is a progran that converts ES6 js to make it backward compatible with ES5

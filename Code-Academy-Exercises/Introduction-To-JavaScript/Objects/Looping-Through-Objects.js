@@ -31,3 +31,6 @@ for (let crewMember in spaceship.crew) {
 for (let crewMember in spaceship.crew) {
   console.log(`${spaceship.crew[crewMember].name}: ${spaceship.crew[crewMember].degree}`)
 };
+
+
+// looping through objects is done by using for...in. This will allow a block of code to loop through each property in an object

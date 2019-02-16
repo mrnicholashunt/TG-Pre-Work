@@ -4,3 +4,6 @@ function displayAirplane() {
 }
 
 displayAirplane();
+
+
+// require allows us to set up and access the exported module in our new file

@@ -41,3 +41,5 @@ nurseOlynyk.takeVacationDays(5);
 console.log(nurseOlynyk.remainingVacationDays);
 nurseOlynyk.addCertification('Genetics');
 console.log(nurseOlynyk.certifications);
+
+// static methods are used to access specific methods in a specific class level but not in others. To call this method you must also call its class
